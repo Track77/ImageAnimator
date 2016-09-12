@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageAnimatorDemo", "ImageAnimatorDemo\ImageAnimatorDemo.csproj", "{8471BC59-00A4-4BFC-8321-71B42B1171B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8471BC59-00A4-4BFC-8321-71B42B1171B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8471BC59-00A4-4BFC-8321-71B42B1171B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8471BC59-00A4-4BFC-8321-71B42B1171B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8471BC59-00A4-4BFC-8321-71B42B1171B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
